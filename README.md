@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoffee&count_private=true&show_icons=true&theme=blueberry)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoffee&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoffee&layout=compact&theme=blueberry&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antoffee&theme=blueberry)](https://git.io/streak-stats)
 <!--
